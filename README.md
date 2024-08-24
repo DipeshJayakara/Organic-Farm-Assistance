@@ -11,7 +11,7 @@ A web application designed to help organic farmers manage their farm activities 
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:**PHP
+- **Backend:** PHP
 - **Database:** MYSQL
 
 ## Installation
